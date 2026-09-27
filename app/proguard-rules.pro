@@ -1,0 +1,4 @@
+-keep class ai.bongotech.bongovpn.** { *; }
+-keep class de.blinkt.openvpn.** { *; }
+-dontwarn de.blinkt.openvpn.**
+-dontwarn ai.bongotech.**
